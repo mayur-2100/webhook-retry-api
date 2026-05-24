@@ -62,11 +62,8 @@ queue handling for failed payloads.
 ### Dead-letter queue
 ![GET failures](screenshots/failures.png)
 
-### Tests passing
-![pytest output](screenshots/tests_passing.png)
-
 ### Railway deployment
-![Railway dashboard](screenshots/railway_deploy.png)
+![Railway dashboard](screenshots/render_deploy.png)
 
 ## Local Setup
 ```bash
